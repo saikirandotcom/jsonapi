@@ -1,0 +1,24 @@
+[
+    {
+        "UserName":"sai@123",
+        "Mobile":"+915487945",
+        "Email":"sai@gmail.com",
+        "Password":"sai@11",
+        "City":"Hyd",
+        "State":"Telangana",
+        "Postal":500014,
+        "Address":"1-894-/d",
+        "Payment":"Credit Card"
+    },
+    {
+        "UserName":"Kiran@123",
+        "Mobile":"+9154874589",
+        "Email":"kiran@gmail.com",
+        "Password":"kiran@11",
+        "City":"TG",
+        "State":"Telangana",
+        "Postal":500098,
+        "Address":"1-485-/a",
+        "Payment":"Cash"
+    }
+]
